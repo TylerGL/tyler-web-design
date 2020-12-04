@@ -125,6 +125,9 @@ margin: 50px auto;
   color: #ffffff;
   margin:10px 20px;
 }
+.stuff-link{
+  color:#fffff;
+}
 
 .footer-notes{
   color: #ffffff;
@@ -134,9 +137,21 @@ margin: 50px auto;
   color: #ffffff;
 }
 
-a:link{color: #ffffff;}
-a:visited{color: #ffffff;}
-a:hover{color:#ffc8bd }
+.madeStuff{
+  color:black;
+}
+
+a.madeStuff:link{color:black;}
+a.madeStuff:visited{color:black;}
+a.madeStuff:hover{color:#ffc8bd;}
+
+a.footer-link:link{color: #ffffff;}
+a.footer-link:visited{color: #ffffff;}
+a.footer-link:hover{color:#ffc8bd }
+
+a.stuff-link:link{color: #ffffff;}
+a.stuff-link:visited{color: #ffffff;}
+a.stuff-link:hover{color:#ffc8bd }
 
 .contact-me{
   margin: 50px auto;
