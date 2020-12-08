@@ -122,18 +122,17 @@ margin: 50px auto;
 
 .madeStuffDiv {
   width: 50%;
-  margin: 50px auto;
+  margin: 20px auto;
   text-align: center;
-  padding:20px;
+  padding:10px;
 }
 
 .madeStuff{
   color:black;
-  line-height: 2;
 }
 
 .madeStuffP{
-  padding-top:30px;
+  padding-top:10px;
 }
 
 .footer-link{
