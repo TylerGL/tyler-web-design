@@ -41,6 +41,17 @@ a{
   text-decoration: none;
 }
 
+ul{
+  position:relative;
+  display: inline-block;
+  list-style: none;
+  width:100%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
 .webd {
   color: #465b30;
   font-size: 1.5rem;
@@ -131,9 +142,6 @@ margin: 50px auto;
   color:black;
 }
 
-.madeStuffP{
-  padding-top:10px;
-}
 
 .footer-link{
   color: #ffffff;
